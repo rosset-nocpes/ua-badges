@@ -14,3 +14,5 @@
 | ![Nekoteka-Light](src/nekoteka-light.svg)           | `https://rosset-nocpes.github.io/ua-badges/src/nekoteka-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/nekoteka-light.png` |
 | ![Kuli-Dark](src/kuli-dark.svg)                     | `https://rosset-nocpes.github.io/ua-badges/src/kuli-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/kuli-dark.png`           |
 | ![Kuli-Light](src/kuli-light.svg)                   | `https://rosset-nocpes.github.io/ua-badges/src/kuli-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/kuli-light.png`         |
+| ![Eneyida-Dark](src/eneyida-dark.svg)               | `https://rosset-nocpes.github.io/ua-badges/src/eneyida-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/eneyida-dark.png`     |
+| ![Eneyida-Light](src/eneyida-light.svg)             | `https://rosset-nocpes.github.io/ua-badges/src/eneyida-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/eneyida-light.png`   |
