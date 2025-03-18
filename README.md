@@ -22,3 +22,5 @@
 | ![Toloka-Light](src/toloka-light.svg)               | `https://rosset-nocpes.github.io/ua-badges/src/toloka-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/toloka-light.png`     |
 | ![Utopia-Dark](src/utopia-dark.svg)                 | `https://rosset-nocpes.github.io/ua-badges/src/utopia-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/utopia-dark.png`       |
 | ![Utopia-Light](src/utopia-light.svg)               | `https://rosset-nocpes.github.io/ua-badges/src/utopia-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/utopia-light.png`     |
+| ![Telegram-Dark](src/telegram-dark.svg)             | `https://rosset-nocpes.github.io/ua-badges/src/telegram-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/telegram-dark.png`   |
+| ![Telegram-Light](src/telegram-light.svg)           | `https://rosset-nocpes.github.io/ua-badges/src/telegram-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/telegram-light.png` |
