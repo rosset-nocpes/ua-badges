@@ -24,3 +24,7 @@
 | ![Utopia-Light](src/utopia-light.svg)               | `https://rosset-nocpes.github.io/ua-badges/src/utopia-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/utopia-light.png`     |
 | ![Telegram-Dark](src/telegram-dark.svg)             | `https://rosset-nocpes.github.io/ua-badges/src/telegram-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/telegram-dark.png`   |
 | ![Telegram-Light](src/telegram-light.svg)           | `https://rosset-nocpes.github.io/ua-badges/src/telegram-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/telegram-light.png` |
+| ![Notion-Dark](src/notion-dark.svg)                 | `https://rosset-nocpes.github.io/ua-badges/src/notion-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/notion-dark.png`       |
+| ![Notion-Light](src/notion-light.svg)               | `https://rosset-nocpes.github.io/ua-badges/src/notion-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/notion-light.png`     |
+| ![UASerials-Dark](src/uaserials-dark.svg)          | `https://rosset-nocpes.github.io/ua-badges/src/uaserials-dark.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/uaserials-dark.png`       |
+| ![UASerials-Light](src/uaserials-light.svg)        | `https://rosset-nocpes.github.io/ua-badges/src/uaserials-light.svg` <br/> `https://rosset-nocpes.github.io/ua-badges/src/uaserials-light.png`     |
